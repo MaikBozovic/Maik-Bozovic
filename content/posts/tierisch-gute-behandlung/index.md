@@ -7,9 +7,13 @@ image = ""
 +++
 # Tierisch gute Behandlung 
 
-{{<Wie läuft eine Hundeoperation? Wie kommt es zur Einschläferung? Wir lernen die Kleintierklinik an der Universität Bern kennen und erleben eine Operation hautnah.>}}
+{{</Wie läuft eine Hundeoperation? Wie kommt es zur Einschläferung? Wir lernen die Kleintierklinik an der Universität Bern kennen und erleben eine Operation hautnah.>}}
 
 Hier werden täglich Tierleben gerettet – Die Kleintierklinik Uni Bern behandelt jedes Jahr rund 6000 Katzen und Hunde. Die Kleintiere werden in der Klinik jeden Tag mit der bestmöglichen medizinischen Versorgung behandelt und operiert. Da die Kleintierklinik an der Universität Bern mehr medizinische Mittel zur Verfügung hat als eine private Tierklinik, kommen viele Tiere von anderen privaten Kliniken. So werden täglich Tiere für komplizierte Operationen von einer privaten Klinik zur Kleintierklinik Universität Bern weitergeleitet. Dadurch dass in der Klinik viele Tiere operiert werden, ist der Alltag für die Angestellten meistens stressig.  
+
+{{<box title="Kleintierklinik an der Universität Bern">}}
+
+{{</Die Kleintierklinik der Vetsuisse Fakultät Bern ist ein Tierspital für kleine Haustiere.  Die Klinik ist auf neuestem technischem Stand und behandelt die Tiere mit der bestmöglichen medizinischen Versorgung. Zudem werden in diesem Tierspital verschiedenste tierische Krankheiten untersucht und allenfalls mögliche Behandlungen entwickelt. Junge anstehende Tierärztinnen und Tierärzte werden in diesem Spital aus- und weitergebildet. Dementsprechend werden sie von den Tierärzten betreut und begleitet. >}}
 
 Ein regnerischer Herbstmorgen. Im Bus läuft das Radio. Wir sind auf dem Weg in die Kleintierklinik an der Universität Bern. Pünktlich um acht Uhr morgens stehen wir an der Rezeption. Herzlich werden wir vom Empfangspersonal begrüsst. Nach fünfzehnminütiger Wartezeit werden wir vom Lehrling Gian Althaus begrüsst. Gian begleitet uns anschliessend zum Kleiderschrank, wo wir mit klinischen Kleidern versorgt werden. Als wir schliesslich umgezogen sind, zeigt uns Gian das ganze Gebäude gründlich.  
 
@@ -34,6 +38,8 @@ Der Hund schläft ziemlich schnell ein und die gesamte Stimmung ist recht entspa
 "Die meisten Fehler bei einer Operation entstehen durch die Unachtsamkeit, die die Müdigkeit verursacht”, sagt Franck Forterre, Neurochirurg, Professor für Tiermedizin und Abteilungsleiter der Chirurgie. Auch bei einer Routineoperation kann etwas schief gehen. Chirurgen müssen täglich mehrere Operationen durchführen, die mehrere Stunden dauern können. Dabei werden sie physisch sowie auch psychisch sehr belastet. Nichtsdestotrotz passieren Fehler selten und die allermeisten Operationen verlaufen nach Plan. Aber die Chirurgen machen den Tierbesitzern deutlich klar, dass auch bei einer normalen Operation etwas schiefgehen kann. Weitererzählt Franck Forterre: “Es ist nicht so, dass ich unkonzentriert war. Der Fehler passierte, weil ich zu müde war. Es war Freitagnachmittag und ich wollte die OP gar nicht mehr machen. Ich wollte die am Montag machen, aber ich habe mich überreden lassen und habe sie doch am Freitagnachmittag gemacht und dann ist der Fehler passiert.“ Hier ist der grosse Arbeitsstress unter den Chirurgen deutlich zu sehen.
 
 {{<box title="Frank Forterre">}}
+
+{{</Prof. Dr. med. vet. Franck Forterre ist ein französischer Kleintierchirurg spezialisiert auf Neurochirurgie. Er arbeitet seit 2014 in der Kleintierklinik der Universität Bern und leitet die Abteilung der Chirurgie. Er studierte Tiermedizin an der Universität Toulouse. « In Frankreich gehört die Tiermedizin zu den Fächern der Hochschulen. Meine Eltern wollten, dass ich an einer Hochschule studiere, also studierte ich Tiermedizin als Kompromiss mit meinen Eltern», sagt Franck Forterre. >}}
 
 Der Bauch ist mittlerweile aufgeschnitten und die Chirurgen sind gerade dabei, das Fett zu entfernen, damit sie ein Stück von der Leber abschneiden können. Alles läuft nach Plan und die Operation nähert sich dem Ende. Die Chirurgen nehmen zwei Proben der Leber und sprechen sich mit einem Team der inneren Medizin gut ab. Beide Proben werden noch während der Operation von einer Forscherin abgeholt. Der Verdacht besteht, dass sich Parasiten in der Leber befinden. Die Chirurgen müssen nur noch die offene Stelle am Bauch zunähen und schon kann der Hund auf die Aufwachstation, wo er sich nach der Operation erholen wird.  Die Operation nach mehr als einer Stunde abgeschlossen. 
 
