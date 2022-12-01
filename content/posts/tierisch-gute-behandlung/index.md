@@ -2,7 +2,7 @@
 title = "Tierisch gute Behandlung "
 date = "2022-12-01"
 draft = false
-pinned = true
+pinned = false
 image = ""
 +++
 # Tierisch gute Behandlung 
