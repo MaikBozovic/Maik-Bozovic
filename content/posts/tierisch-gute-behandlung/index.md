@@ -7,13 +7,19 @@ image = ""
 +++
 # Tierisch gute Behandlung 
 
-{{</Wie läuft eine Hundeoperation? Wie kommt es zur Einschläferung? Wir lernen die Kleintierklinik an der Universität Bern kennen und erleben eine Operation hautnah.>}}
+{{<lead.>}}
+
+Wie läuft eine Hundeoperation? Wie kommt es zur Einschläferung? Wir lernen die Kleintierklinik an der Universität Bern kennen und erleben eine Operation hautnah.  
+
+{{</lead.>}}
 
 Hier werden täglich Tierleben gerettet – Die Kleintierklinik Uni Bern behandelt jedes Jahr rund 6000 Katzen und Hunde. Die Kleintiere werden in der Klinik jeden Tag mit der bestmöglichen medizinischen Versorgung behandelt und operiert. Da die Kleintierklinik an der Universität Bern mehr medizinische Mittel zur Verfügung hat als eine private Tierklinik, kommen viele Tiere von anderen privaten Kliniken. So werden täglich Tiere für komplizierte Operationen von einer privaten Klinik zur Kleintierklinik Universität Bern weitergeleitet. Dadurch dass in der Klinik viele Tiere operiert werden, ist der Alltag für die Angestellten meistens stressig.  
 
 {{<box title="Kleintierklinik an der Universität Bern">}}
 
-{{</Die Kleintierklinik der Vetsuisse Fakultät Bern ist ein Tierspital für kleine Haustiere.  Die Klinik ist auf neuestem technischem Stand und behandelt die Tiere mit der bestmöglichen medizinischen Versorgung. Zudem werden in diesem Tierspital verschiedenste tierische Krankheiten untersucht und allenfalls mögliche Behandlungen entwickelt. Junge anstehende Tierärztinnen und Tierärzte werden in diesem Spital aus- und weitergebildet. Dementsprechend werden sie von den Tierärzten betreut und begleitet. >}}
+Die Kleintierklinik der Vetsuisse Fakultät Bern ist ein Tierspital für kleine Haustiere.  Die Klinik ist auf neuestem technischem Stand und behandelt die Tiere mit der bestmöglichen medizinischen Versorgung. Zudem werden in diesem Tierspital verschiedenste tierische Krankheiten untersucht und allenfalls mögliche Behandlungen entwickelt. Junge anstehende Tierärztinnen und Tierärzte werden in diesem Spital aus- und weitergebildet. Dementsprechend werden sie von den Tierärzten betreut und begleitet. 
+
+{{</box>}}
 
 Ein regnerischer Herbstmorgen. Im Bus läuft das Radio. Wir sind auf dem Weg in die Kleintierklinik an der Universität Bern. Pünktlich um acht Uhr morgens stehen wir an der Rezeption. Herzlich werden wir vom Empfangspersonal begrüsst. Nach fünfzehnminütiger Wartezeit werden wir vom Lehrling Gian Althaus begrüsst. Gian begleitet uns anschliessend zum Kleiderschrank, wo wir mit klinischen Kleidern versorgt werden. Als wir schliesslich umgezogen sind, zeigt uns Gian das ganze Gebäude gründlich.  
 
@@ -39,7 +45,9 @@ Der Hund schläft ziemlich schnell ein und die gesamte Stimmung ist recht entspa
 
 {{<box title="Frank Forterre">}}
 
-{{</Prof. Dr. med. vet. Franck Forterre ist ein französischer Kleintierchirurg spezialisiert auf Neurochirurgie. Er arbeitet seit 2014 in der Kleintierklinik der Universität Bern und leitet die Abteilung der Chirurgie. Er studierte Tiermedizin an der Universität Toulouse. « In Frankreich gehört die Tiermedizin zu den Fächern der Hochschulen. Meine Eltern wollten, dass ich an einer Hochschule studiere, also studierte ich Tiermedizin als Kompromiss mit meinen Eltern», sagt Franck Forterre. >}}
+Prof. Dr. med. vet. Franck Forterre ist ein französischer Kleintierchirurg spezialisiert auf Neurochirurgie. Er arbeitet seit 2014 in der Kleintierklinik der Universität Bern und leitet die Abteilung der Chirurgie. Er studierte Tiermedizin an der Universität Toulouse. « In Frankreich gehört die Tiermedizin zu den Fächern der Hochschulen. Meine Eltern wollten, dass ich an einer Hochschule studiere, also studierte ich Tiermedizin als Kompromiss mit meinen Eltern», sagt Franck Forterre
+
+{{</box>}}
 
 Der Bauch ist mittlerweile aufgeschnitten und die Chirurgen sind gerade dabei, das Fett zu entfernen, damit sie ein Stück von der Leber abschneiden können. Alles läuft nach Plan und die Operation nähert sich dem Ende. Die Chirurgen nehmen zwei Proben der Leber und sprechen sich mit einem Team der inneren Medizin gut ab. Beide Proben werden noch während der Operation von einer Forscherin abgeholt. Der Verdacht besteht, dass sich Parasiten in der Leber befinden. Die Chirurgen müssen nur noch die offene Stelle am Bauch zunähen und schon kann der Hund auf die Aufwachstation, wo er sich nach der Operation erholen wird.  Die Operation nach mehr als einer Stunde abgeschlossen. 
 
