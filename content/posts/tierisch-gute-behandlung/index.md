@@ -61,6 +61,10 @@ Die Aufwachphase ist ebenfalls ein wichtiger Prozess der Operation. Das Tier mus
 
 ![Die Chirurgen nehmen eine Leberprobe vom Hund. (Foto: Huy Thai)](r3.jpg)
 
+> “In der Tiermedizin ist es so, dass immer ein Besitzer hinter dem Tier steht.” 
+>
+> Franck Forterre, Neurochirurg 
+
 ### Traurige Erlösung 
 
 Die Euthanasie oder auch Einschläferung ist ein trauriges, aber essenzielles Thema. An der Tierklinik Uni Bern wird etwa jeden zweiten Tag ein Tier eingeschläfert. In der Kleintierklinik wird ein wenig anders eingeschläfert als in privaten Kliniken. Dem Tier werden zwei Medikamente beim Einschläfern gegeben. Das erste bewirkt, dass das Tier schläft und nichts mitbekommt. Das zweite bewirkt, dass das Herz vom Tier langsam aufhört zu schlagen. Tiere auf diese Art einzuschläfern, kosten ein wenig mehr Geld, als ohne Schlafmedikament einzuschläfern. Diese Methode ist aber angenehmer für das Tier.  
