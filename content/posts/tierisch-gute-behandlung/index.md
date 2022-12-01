@@ -33,6 +33,10 @@ Bei der Notfallaufnahme angekommen, wird ein Hund behandelt. Der Hund ist von we
 
 ![Gian, Lehrling, führt uns durch die Klinik. (Foto: Huy Thai)](r1.jpg)
 
+> “Die meisten Fehler bei einer Operation entstehen durch Unachtsamkeit.”  
+>
+> Franck Forterre, Neurochirurg 
+
 ### Nichts für schwache Nerven 
 
 Gegen Mittag in der Tierklinik wird ein Hund an der Leber operiert. Wir sind bereits nach der Ankunft in der Klinik gefragt worden, ob wir bei dieser Operation dabei sein wollen. Deshalb werden wir von der Notaufnahme in die Operationsvorbereitung verlegt. Im Vorbereitungsraum stehen schon einige Leute, die den Hund medikamentös auf die Narkose vorbereiten. Fachleute verstehen unter diesem Vorgang die Prämedikation.  
@@ -57,7 +61,7 @@ Die Aufwachphase ist ebenfalls ein wichtiger Prozess der Operation. Das Tier mus
 
 ![Die Chirurgen nehmen eine Leberprobe vom Hund. (Foto: Huy Thai)](r3.jpg)
 
-###  Traurige Erlösung 
+### Traurige Erlösung 
 
 Die Euthanasie oder auch Einschläferung ist ein trauriges, aber essenzielles Thema. An der Tierklinik Uni Bern wird etwa jeden zweiten Tag ein Tier eingeschläfert. In der Kleintierklinik wird ein wenig anders eingeschläfert als in privaten Kliniken. Dem Tier werden zwei Medikamente beim Einschläfern gegeben. Das erste bewirkt, dass das Tier schläft und nichts mitbekommt. Das zweite bewirkt, dass das Herz vom Tier langsam aufhört zu schlagen. Tiere auf diese Art einzuschläfern, kosten ein wenig mehr Geld, als ohne Schlafmedikament einzuschläfern. Diese Methode ist aber angenehmer für das Tier.  
 
