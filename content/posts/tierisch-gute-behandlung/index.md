@@ -80,4 +80,4 @@ Mittlerweile ist es schon Nachmittag und wir kommen von der Mittagspause zurück
 
 ![Die Chirurgen bereiten sich aud die Operation der Katze vor. (Foto: Huy Thai)](r4.jpg)
 
-Nach der Operation ist der Tag in der Klinik für uns zu Ende und wir ziehen uns wieder um. Wir bedanken uns bei allen in der Klinik. Der Tag geht zu Ende und es ist langsam dunkel geworden. Wir fahren wieder mit dem Bus nach Hause. Schneller als gedacht geht ein aufregender und informativer Tag in der Kleintierklinik an der Universität Bern zu Ende. Wir haben viele Eindrücke sammeln können und haben zusätzlich vielfältige Einblicke in den Beruf eines Tierarztes gesehen.
+Nach der Operation ist der Tag in der Klinik für uns zu Ende und wir ziehen uns wieder um. Wir bedanken uns bei allen in der Klinik. Der Tag geht zu Ende und es ist langsam dunkel geworden. Wir fahren wieder mit dem Bus nach Hause. Schneller als gedacht geht ein aufregender und informativer Tag in der Kleintierklinik an der Universität Bern zu Ende. Wir haben viele Eindrücke sammeln können und haben einen guten Einblick in den Beruf eines Tierarztes bekommen.
