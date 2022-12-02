@@ -8,11 +8,11 @@ image = "r3.jpg"
 +++
 # Tierisch gute Behandlung 
 
-{{<lead.>}}
+{{<lead>}}
 
 Wie läuft eine Hundeoperation? Wie kommt es zur Einschläferung? Wir lernen die Kleintierklinik an der Universität Bern kennen und erleben eine Operation hautnah.  
 
-{{</lead.>}}
+{{</lead>}}
 
 Hier werden täglich Tierleben gerettet – Die Kleintierklinik Uni Bern behandelt jedes Jahr rund 6000 Katzen und Hunde. Die Kleintiere werden in der Klinik jeden Tag mit der bestmöglichen medizinischen Versorgung behandelt und operiert. Da die Kleintierklinik an der Universität Bern mehr medizinische Mittel zur Verfügung hat als eine private Tierklinik, kommen viele Tiere von anderen privaten Kliniken. So werden täglich Tiere für komplizierte Operationen von einer privaten Klinik zur Kleintierklinik Universität Bern weitergeleitet. Dadurch dass in der Klinik viele Tiere operiert werden, ist der Alltag für die Angestellten meistens stressig.  
 
