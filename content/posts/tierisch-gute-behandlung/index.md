@@ -36,7 +36,7 @@ Bei der Notfallaufnahme angekommen, wird ein Hund behandelt. Der Hund ist von we
 
 > “Die meisten Fehler bei einer Operation entstehen durch Unachtsamkeit.”  
 >
-> Franck Forterre, Neurochirurg 
+> _Franck Forterre, Neurochirurg_
 
 ### Nichts für schwache Nerven 
 
@@ -64,7 +64,7 @@ Die Aufwachphase ist ebenfalls ein wichtiger Prozess der Operation. Das Tier mus
 
 > “In der Tiermedizin ist es so, dass immer ein Besitzer hinter dem Tier steht.” 
 >
-> Franck Forterre, Neurochirurg 
+> _Franck Forterre, Neurochirurg_
 
 ### Traurige Erlösung 
 
