@@ -1,7 +1,7 @@
 +++
 title = "Tierisch gute Behandlung "
 date = "2022-12-02"
-draft = true
+draft = false
 pinned = false
 tags = ["Reportage"]
 image = ""
