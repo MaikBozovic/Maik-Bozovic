@@ -48,6 +48,8 @@ Die Prämedikation erfolgt bei dieser Operation mit Propofol. Propofol ist ein A
 
 Der Hund schläft ziemlich schnell ein und die gesamte Stimmung ist recht entspannt. Das Tier wird auf eine Operation vorbereitet, bei dem der Chirurg eine Leberprobe entnimmt, damit das Labor die Leber untersuchen kann. Der Hund schläft mittlerweile und das Personal rasiert den Bauch des Hundes, damit der Chirurg den Bauch ohne Probleme aufschneiden kann. Die letzten Vorbereitungen werden noch getroffen, damit das Tier während der Operation beatmet werden kann. Der Operationssaal befindet sich neben dem Vorbereitungszimmer und der Hund wird sorgfältig in das angrenzende Zimmer transportiert. Der Chirurg und die Chirurgin kommen in den Saal und desinfizieren sich sorgfältig. Der Hund wird zugedeckt und es geht los. Beide sind sehr konzentriert, aber die Stimmung ist lockerer als erwartet. Das Radio läuft und die Chirurgen werden während der OP oft gestört.  
 
+![Kylo, der Hund, wird auf die Operation vorbereitet. (Foto: Huy Thai)](r2.jpg)
+
 "Die meisten Fehler bei einer Operation entstehen durch die Unachtsamkeit, die die Müdigkeit verursacht”, sagt Franck Forterre, Neurochirurg, Professor für Tiermedizin und Abteilungsleiter der Chirurgie. Auch bei einer Routineoperation kann etwas schief gehen. Chirurgen müssen täglich mehrere Operationen durchführen, die mehrere Stunden dauern können. Dabei werden sie physisch sowie auch psychisch sehr belastet. Nichtsdestotrotz passieren Fehler selten und die allermeisten Operationen verlaufen nach Plan. Aber die Chirurgen machen den Tierbesitzern deutlich klar, dass auch bei einer normalen Operation etwas schiefgehen kann. Weitererzählt Franck Forterre: “Es ist nicht so, dass ich unkonzentriert war. Der Fehler passierte, weil ich zu müde war. Es war Freitagnachmittag und ich wollte die OP gar nicht mehr machen. Ich wollte die am Montag machen, aber ich habe mich überreden lassen und habe sie doch am Freitagnachmittag gemacht und dann ist der Fehler passiert.“ Hier ist der grosse Arbeitsstress unter den Chirurgen deutlich zu sehen.
 
 {{<box title="Frank Forterre">}}
@@ -64,7 +66,7 @@ Der Bauch ist mittlerweile aufgeschnitten und die Chirurgen sind gerade dabei, d
 
 Die Aufwachphase ist ebenfalls ein wichtiger Prozess der Operation. Das Tier muss gut überwacht werden, da sich das Tier in der Aufwachstation wieder sammelt und weiter mit Medikamenten versorgt wird. Ab und zu befindet sich in dieser Station eine Sauerstoffbox, in der das Tier mit ausreichend Wärme und Sauerstoff versorgt wird, damit die Wunden besser heilen.  
 
-![Kylo, der Hund, wird auf die Operation vorbereitet. (Foto: Huy Thai)](r2.jpg)
+
 
 ![Die Chirurgen nehmen eine Leberprobe vom Hund. (Foto: Huy Thai)](r3.jpg)
 
