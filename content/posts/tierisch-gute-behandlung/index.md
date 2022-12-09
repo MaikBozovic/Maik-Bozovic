@@ -30,13 +30,15 @@ Im Allgemeinen haben wir einen positiven ersten Eindruck. Das Gebäude ist moder
 
 Die Notfallaufnahme befindet sich in der Nähe des Haupteingangs, damit das Tier direkt versorgt werden kann. Da ein medizinischer Notfall bei den Tieren rund um die Uhr auftreten kann, muss immer jemand in der Notaufnahme sein, der alles überwacht. Während der Nachtschicht kann es dann schnell einmal kritisch werden, da dann nur wenig Personal zur Verfügung steht. Falls die Pflegeperson allein für vier Tiere in der Nacht gleichzeitig zuständig ist, kann auch was schiefgehen. Bei dieser Notaufnahme werden Hunde und Katzen getrennt behandelt. Dies ist so, da ein Hund oder eine Katze von der Anwesenheit des anderen Tieres gestresst sein können.  
 
+> “Die meisten Fehler bei einer Operation entstehen durch Unachtsamkeit.”  
+>
+> *Franck Forterre, Neurochirurg*
+
 Bei der Notfallaufnahme angekommen, wird ein Hund behandelt. Der Hund ist von wenigen Minuten in die Klinik eingetroffen. Er hat starke Schmerzen und Fieber. Ausserdem ist der Hund nicht mehr richtig gehfähig. Die Ärztin und das Pflegepersonal nehmen dem Hund mittels eines Venenkatheters Blut ab, damit sie sein Blut überprüfen können. Man vermutet, dass ein Problem mit der Wirbelsäule besteht. Höchstwahrscheinlich handelt es sich um einen Bandscheibenvorfall.
 
 ![Gian, Lehrling, führt uns durch die Klinik. (Foto: Huy Thai)](r1.jpg)
 
-> “Die meisten Fehler bei einer Operation entstehen durch Unachtsamkeit.”  
->
-> *Franck Forterre, Neurochirurg*
+
 
 ### Nichts für schwache Nerven 
 
@@ -56,15 +58,17 @@ Prof. Dr. med. vet. Franck Forterre ist ein französischer Kleintierchirurg spez
 
 Der Bauch ist mittlerweile aufgeschnitten und die Chirurgen sind gerade dabei, das Fett zu entfernen, damit sie ein Stück von der Leber abschneiden können. Alles läuft nach Plan und die Operation nähert sich dem Ende. Die Chirurgen nehmen zwei Proben der Leber und sprechen sich mit einem Team der inneren Medizin gut ab. Beide Proben werden noch während der Operation von einer Forscherin abgeholt. Der Verdacht besteht, dass sich Parasiten in der Leber befinden. Die Chirurgen müssen nur noch die offene Stelle am Bauch zunähen und schon kann der Hund auf die Aufwachstation, wo er sich nach der Operation erholen wird.  Die Operation nach mehr als einer Stunde abgeschlossen. 
 
+> “In der Tiermedizin ist es so, dass immer ein Besitzer hinter dem Tier steht.” 
+>
+> *Franck Forterre, Neurochirurg*
+
 Die Aufwachphase ist ebenfalls ein wichtiger Prozess der Operation. Das Tier muss gut überwacht werden, da sich das Tier in der Aufwachstation wieder sammelt und weiter mit Medikamenten versorgt wird. Ab und zu befindet sich in dieser Station eine Sauerstoffbox, in der das Tier mit ausreichend Wärme und Sauerstoff versorgt wird, damit die Wunden besser heilen.  
 
 ![Kylo, der Hund, wird auf die Operation vorbereitet. (Foto: Huy Thai)](r2.jpg)
 
 ![Die Chirurgen nehmen eine Leberprobe vom Hund. (Foto: Huy Thai)](r3.jpg)
 
-> “In der Tiermedizin ist es so, dass immer ein Besitzer hinter dem Tier steht.” 
->
-> *Franck Forterre, Neurochirurg*
+
 
 ### Traurige Erlösung 
 
