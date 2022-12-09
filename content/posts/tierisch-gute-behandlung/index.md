@@ -3,14 +3,14 @@ title = "Tierisch gute Behandlung "
 date = "2022-12-02"
 draft = false
 pinned = false
-tags = ["Reportage"]
+tags = ["Reportage", "Deutsch"]
 image = "r3.jpg"
 +++
 # Tierisch gute Behandlung 
 
 {{<lead>}}
 
-Wie läuft eine Hundeoperation? Wie kommt es zur Einschläferung? Wir lernen die Kleintierklinik an der Universität Bern kennen und erleben eine Operation hautnah.  
+Wie läuft eine Hundeoperation? Wie kommt es zur Einschläferung? Wir lernen die Kleintierklinik an der Universität Bern kennen und erleben eine Operation hautnah. Eine Reportage von Maik Bozovic und Huy Thai. 
 
 {{</lead>}}
 
