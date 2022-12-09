@@ -10,7 +10,7 @@ image = "r3.jpg"
 
 {{<lead>}}
 
-Wie läuft eine Hundeoperation? Wie kommt es zur Einschläferung? Wir lernen die Kleintierklinik an der Universität Bern kennen und erleben eine Operation hautnah. Eine Reportage von Maik Bozovic und Huy Thai. 
+Wie läuft eine Hundeoperation? Wie kommt es zur Einschläferung? Wir lernen die Kleintierklinik an der Universität Bern kennen und erleben eine Operation hautnah. *Eine Reportage von Maik Bozovic und Huy Thai.* 
 
 {{</lead>}}
 
