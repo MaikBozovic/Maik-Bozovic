@@ -8,7 +8,7 @@ image = "microsoftteams-image.png"
 +++
 ### Didier van Cauwelaert 
 
-Didier est né à Nice en 1960. Il a commence a écrire quand il avait neuf ans.  En 2001 un film a été créé a base de son ivre un aller simple. En plus des romans, il a écrit des pièces de theatre, des BD et des scénarios. Beaucoup de ses livres ont été traduits dans plus de 20 langues. Il a aussi joue comme acteur dans une pièce de Sartre.
+Didier est né à Nice en 1960. Il a commence a écrire quand il avait neuf ans.  En 2001 un film a été créé a base de son livre un aller simple. En plus des romans, il a écrit des pièces de theatre, des BD et des scénarios. Beaucoup de ses livres ont été traduits dans plus de 20 langues. Il a aussi recite comme acteur dans une pièce de Sartre.
 
 ### Résumé
 
