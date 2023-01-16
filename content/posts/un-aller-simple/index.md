@@ -8,12 +8,12 @@ image = "microsoftteams-image.png"
 +++
 ### Didier van Cauwelaert 
 
-Didier est né à Nice en 1960. Il a commence a écrire quand il avait neuf ans.  En 2001 un film a été créé a base de son livre un aller simple. En plus des romans, il a écrit des pièces de theatre, des BD et des scénarios. Beaucoup de ses livres ont été traduits dans plus de 20 langues. Il a aussi recite comme acteur dans une pièce de Sartre.
+Didier est né à Nice en 1960. Il a commence a écrire quand il avait neuf ans.  En 2001 un film a été créé a base de son livre un aller simple. En plus des romans, il a écrit des pièces de theatre, des BD et des scénarios. Beaucoup de ses livres ont été traduits dans plus de 20 langues. Il a aussi récite comme acteur dans une pièce de Sartre.
 
 ### Résumé
 
-Aziz, le personnage principal, pers ses parent dans un accident de voiture et donc il grandit avec les tsiganes. Il vole les radios des voitures. Plus tard, la police l’arrête pour un vole d’une bague qu’il na pas commis. Ont le revois aux Maroc, meme s’il est française et ces faux paiers qui disent qu’il est marocain.\
-Un attaché humanitair l‘accompagné aux Maroc. Le voyage n’est pas simple.
+Aziz, le personnage principal, pers ses parent dans un accident de voiture et donc il grandit avec les tsiganes. Il vole les radios des voitures. Plus tard, la police l’arrête pour un vole d’une bague qu’il na pas commis. Ont le revois aux Maroc, m*ê*me s’il est française et c'est ces faux paiers qui disent qu’il est marocain.\
+Un attaché humanitaire l‘accompagné aux Maroc. Le voyage n’est pas simple.
 
 ### Citation
 
