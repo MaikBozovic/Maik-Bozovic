@@ -16,10 +16,11 @@ Un attaché humanitair l‘accompagné aux Maroc. Le voyage n’est pas simple.
 
 ### Avis
 
-Le livre est plus facile à comprendre grâce aux mots traduis au font de la page. Le lecture est intéressant et pas trop long. Le thème du livre avec l'immigration est important. 
+Le livre est plus facile à comprendre grâce aux mots traduis au font de la page. Le lecture est intéressant et pas trop long. Le thème du livre avec l'immigration est important. Les personnage sont sympathiqueset aimables.
 
 ### Citation 
 
-"On va te ramener chez toi, Aziz." 
+« On va te ramener chez toi, Aziz »\
+-Pignol page 42
 
-### Extrait
+Cette citation expliques bien ce qui ce passe dans le livre. Aziz est renvoie chez « lui » pour un crime qu’il na pas commit. Ce voyage n’est pas simple.
