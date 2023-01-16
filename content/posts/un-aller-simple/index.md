@@ -12,7 +12,7 @@ Didier est né à Nice en 1960. Il a commence a écrire quand il avait neuf ans.
 
 ### Résumé
 
-Aziz, le personnage principal, pers ses parent dans un accident de voiture et donc il grandit avec les tsiganes. Il vole les radios des voitures. Plus tard, la police l’arrête pour un vole d’une bague qu’il na pas commis. Ont le revois aux Maroc, m*ê*me s’il est française et c'est ces faux paiers qui disent qu’il est marocain.\
+Aziz, le personnage principal, pers ses parent dans un accident de voiture et donc il grandit avec les tsiganes. Il vole les radios des voitures. Plus tard, la police l’arrête pour un vole d’une bague qu’il na pas commis. Ont le revois aux Maroc, même s’il est française et c'est ces faux paiers qui disent qu’il est marocain.\
 Un attaché humanitaire l‘accompagné aux Maroc. Le voyage n’est pas simple.
 
 ### Citation
