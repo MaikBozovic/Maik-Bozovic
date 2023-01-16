@@ -1,7 +1,7 @@
 +++
 title = "Un aller simple ou pas?"
 date = "2023-01-09"
-draft = true
+draft = false
 pinned = false
 tags = ["französisch", "lektüre", "francophonie"]
 image = "microsoftteams-image.png"
